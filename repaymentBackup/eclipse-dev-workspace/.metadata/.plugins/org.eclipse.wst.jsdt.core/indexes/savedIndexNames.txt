@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Ploy\thai smile dummy\GEC\System\Kbank\eclipse-dev-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2356383424.index
+2375375402.index
+2945652186.index
+1624935174.index
+1261212835.index
+923993063.index
+1828186604.index

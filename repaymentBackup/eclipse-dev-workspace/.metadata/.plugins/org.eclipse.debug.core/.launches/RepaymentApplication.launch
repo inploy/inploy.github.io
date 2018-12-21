@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/repayment/src/main/java/escf/RepaymentApplication.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<mapAttribute key="org.eclipse.debug.core.environmentVariables">
+<mapEntry key="inqDirectDebitAccount.response.config.path" value="C:\Users\Ploy\thai smile dummy\GEC\System\Kbank\escf-test\escf-test\ESCF-TestApp\repayment\response_config\inqDirectDebitAccount.properties"/>
+<mapEntry key="inqRepaymentAccount.response.config.path" value="C:\Users\Ploy\thai smile dummy\GEC\System\Kbank\escf-test\escf-test\ESCF-TestApp\repayment\response_config\inqRepaymentAccount.properties"/>
+<mapEntry key="receipt.response.config.path" value="C:\Users\Ploy\thai smile dummy\GEC\System\Kbank\escf-test\escf-test\ESCF-TestApp\repayment\response_config\receipt.properties"/>
+<mapEntry key="repayment.response.config.path" value="C:\Users\Ploy\thai smile dummy\GEC\System\Kbank\escf-test\escf-test\ESCF-TestApp\repayment\response_config\repayment.properties"/>
+</mapAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="escf.RepaymentApplication"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="repayment"/>
+<stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
+</launchConfiguration>
